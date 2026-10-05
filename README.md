@@ -13,6 +13,7 @@ The game also ships with a **live RAG demo**: a real AI answering questions abou
 - **11 hands-on levels**: hallucinations, the RAG pipeline, chunking, embeddings, vector search, safe prompt building, debugging bad answers, the 8 main attacks on RAG apps, spotting vulnerable code, defense in depth, and auditing AI-written code
 - **Interactive mini-games**: slice a handbook into chunks with live sliders, plot meanings on an embedding map, tune search cutoffs, and build an attack-proof pipeline
 - **Live RAG demo**: ask a real AI as a guest, cook or manager, and watch the retrieved chunks and their scores, what your role hides, the exact prompt sent to the AI, and the cited answer
+- **See how the code works**: follow your question through the pipeline's Python code in 7 stages, from receiving the question to checking the AI's answer, with a plain-English explanation on every line. Each step of the live demo links to its stage. The code is simplified, and security-sensitive details are left out on purpose
 - **Security built in and shown**: input validation, a prompt-injection filter, role-based access control, a relevance cutoff, and a poisoned-document quarantine, each shown passing or blocking in real time
 - **Explain Like I'm 5 mode** switches every lesson to simple, kid-friendly wording
 - **Progress, XP, badges and ranks** saved only in your browser: no account, no tracking
